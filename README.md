@@ -11,5 +11,7 @@
 - SN
 
 # "Token Address" on the Sepolia Network
-Rinkeby Network is deprecated?
+I am using Sepolia Network instead of Rinkeby Network, as Rinkeby Network has been deprecated.
+
 - 0x9c6B0871D4e5a2a7c8dcf04baf7993F37397B47E
+- https://sepolia.etherscan.io/address/0x9c6B0871D4e5a2a7c8dcf04baf7993F37397B47E
